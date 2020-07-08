@@ -21,7 +21,7 @@
     "clean": ""
   },
   "dependencies": {
-    "@apollo/client": "^3.0.0-james"
+    "apollo-client-hotfix-fetch-more": "2.6.10"
   },
   "publishConfig": {
     "access": "public"

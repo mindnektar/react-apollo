@@ -1,1 +1,1 @@
-module.exports = require('@apollo/client');
+module.exports = require('apollo-client-hotfix-fetch-more');
